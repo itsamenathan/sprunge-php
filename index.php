@@ -12,7 +12,7 @@ NAME
     sprunge: command line pastebin. Copy of http://sprunge.us
 
 SYNOPSIS
-    <command> | curl -F 'sprunge=<-' https://frcv.net/pastebin/
+    \<command\> | curl -F 'sprunge=<-' https://frcv.net/pastebin/
 
 DESCRIPTION
     NOTE: THIS IS NOT WORKING RIGHT NOW!!!
