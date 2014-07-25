@@ -1,0 +1,9 @@
+<?php
+
+$MYSQL_HOST="127.0.0.1";
+$MYSQL_DB="DBNAME";
+$MYSQL_USER="USER";
+$MYSQL_PASS="PASS";
+
+?>
+
