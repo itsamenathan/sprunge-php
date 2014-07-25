@@ -12,11 +12,11 @@ NAME
     sprunge: command line pastebin. Copy of http://sprunge.us
 
 SYNOPSIS
-    \<command\> | curl -F 'sprunge=<-' https://frcv.net/pastebin/
+    &lt;command&gt; | curl -F 'sprunge=<-' https://frcv.net/pastebin/
 
 DESCRIPTION
     NOTE: THIS IS NOT WORKING RIGHT NOW!!!
-    add ?<lang> to resulting url for line numbers and syntax highlighting
+    add ?&lt;lang&gt; to resulting url for line numbers and syntax highlighting
     use this form to paste from a browser
 
 EXAMPLES
