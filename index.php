@@ -25,7 +25,8 @@ EXAMPLES
        https://frcv.net/pastebin/?id=12345678
 
 SEE ALSO
-    http://github.com/rupa/sprunge
+    https://github.com/rupa/sprunge
+    https://github.com/itsamenathan/sprunge-php
 </pre>
 </head>
 <body>
